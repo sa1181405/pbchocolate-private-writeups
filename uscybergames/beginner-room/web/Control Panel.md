@@ -4,6 +4,8 @@ Point count: 150pts
 
 Provided files: control-panel.zip
 
+Description: Agent, we've identified what appears to be ARIA's control panel. Luckily there's no authentication required to interact with it. Can you take down ARIA once and for all?
+
 We are presented with a website with source code. Let's examine the main.py file
 
 ```
