@@ -15,7 +15,7 @@ Running common steg tools such as zsteg, exiftool, or using Aperi'Solve does not
 
 However, the hint says that there may be a program to extract files. After extensive research, I came across this github repo. 
 
-https://github.com/dtmsecurity/gift?ref=dtm.uk
+https://github.com/dtmsecurity/gift
 
 That seems to match the tool we need!
 
