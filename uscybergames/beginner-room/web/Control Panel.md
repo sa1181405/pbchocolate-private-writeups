@@ -48,6 +48,8 @@ We can test this by opening up burpsuite and passing this header:
 
 `GET /?command=destroy_humans&arg=;%20ls HTTP/1.1`
 
+Why the semicolon? This is used as a command separator. Semicolons in bash allows you to execute multiple commands in a single line. Without it, the input `arg` would be treated as a parameter to destroy_humans.sh, rather than a seperate command. 
+
 And it works! We are able to see the system files inside!
 
 But where is the flag? If we examine the source code further, there is a file called destroyer.py
