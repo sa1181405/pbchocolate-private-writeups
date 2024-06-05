@@ -4,6 +4,7 @@ Point count: 150pts
 
 Provided files: Secret.pdf
 
+Description: We managed to get an informant to obtain a document which we believe might contain information confirming alien existence, but it is too censored.
 
 You are given a pdf file with blacked out text.
 
