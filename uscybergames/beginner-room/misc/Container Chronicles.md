@@ -41,4 +41,10 @@ We now know who manufactured the container.
 
 I then googled "40' high-cube Seacube" and got a Sea Cube website. What took me long to solve this was that on the Sea Cube website, there is a button to lookup any crate
 
+![image(2)](https://github.com/sa1181405/pbchocolate-private-writeup-making/assets/170969470/4e18e0e5-8cc9-4e70-b9c7-31798be34bdf)
 
+Input the crate details and now you have your flag.
+
+![image(3)](https://github.com/sa1181405/pbchocolate-private-writeup-making/assets/170969470/152a1403-9019-455c-8517-316921c3bfce)
+
+Final flag: `SIVBGR{02_10_2011_d0ck3r}`
