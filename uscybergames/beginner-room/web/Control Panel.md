@@ -46,7 +46,7 @@ In this case, the arg variable can be modified to allow shell commands to be ran
 
 We can test this by opening up burpsuite and passing this header:
 
-`GET /?command=destroy_humans&arg=; ls HTTP/1.1`
+`GET /?command=destroy_humans&arg=;%20ls HTTP/1.1`
 
 And it works! We are able to see the system files inside!
 
