@@ -4,9 +4,10 @@ Point count: 150pts
 
 Provided files: gift.gif
 
+Description: We've received a GIFt from what appears to be a signal coming from extraterrestrial life! Although, it appears they've used steganography to hide it inside of this .gif file. All we know is that it's in the form of a text file named 'iwanttobelieve.txt'. Can you recover it?
+
 Hint: Maybe there's a GIFt tool we can use to recover it?
 
-Description: We've received a GIFt from what appears to be a signal coming from extraterrestrial life! Although, it appears they've used steganography to hide it inside of this .gif file. All we know is that it's in the form of a text file named 'iwanttobelieve.txt'. Can you recover it?
 
 We are provided a gif file. Opening it dosen't show anything out of the ordinary
 
