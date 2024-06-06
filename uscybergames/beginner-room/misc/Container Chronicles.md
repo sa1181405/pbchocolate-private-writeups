@@ -27,7 +27,7 @@ Using Aperi'Solve, we can see that in Red Plane 0, a secret message has been hid
 ![image_r_1](https://github.com/sa1181405/pbchocolate-private-writeup-making/assets/170969470/3d658c60-c1e7-43b0-8720-80e85d259caa)
 
 
-We now know the flag format is SIVBGR{MM_DD_YYY_d0ck3r}. We now have to find the manufacture date on the internet.
+We now know the flag format is SIVBGR{MM_DD_YYY_d0ck3r}. The manufacture date should be somewhere on the internet.
 
 Reversing the image, we get this site
 
