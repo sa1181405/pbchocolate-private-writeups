@@ -8,7 +8,7 @@ Description: ARIA is going out and touching files it shouldn't, can you track do
 
 Note: Fuzzing web directories is allowed.
 
-We are presented with a website. At first, nothing out of the ordinary is shown. However, the description stating that fuzzing is allowed. This indicates to us that we need to start fuzzing to find hidden directories. 
+We are presented with a website. At first, nothing out of the ordinary is shown. However, the description states that fuzzing is allowed. This indicates to us that we need to start fuzzing to find hidden directories. 
 
 You just had to get lucky or had great wordlists for you to get the flag. 
 
