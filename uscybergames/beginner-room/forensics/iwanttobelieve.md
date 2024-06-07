@@ -13,7 +13,7 @@ We are provided a gif file. Opening it dosen't show anything out of the ordinary
 
 Running common steg tools such as zsteg, exiftool, or using Aperi'Solve does not yield any results.
 
-However, the hint says that there may be a program to extract files. After extensive research, I came across this github repo. 
+However, the hint says that there may be a program to extract files from a gif. After extensive research, I came across this github repo. 
 
 https://github.com/dtmsecurity/gift
 
