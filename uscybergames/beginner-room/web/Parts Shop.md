@@ -34,7 +34,7 @@ Hmmm, this section reminds me of a vulnerability called `XML External Entity (XX
 
 *XXE is a web security vulnerability that allows an attacker to interfere with an application's processing of XML data. It often allows an attacker to view files on the application server filesystem, and to interact with any backend or external systems that the application itself can access.* [Source](https://github.com/payloadbox/xxe-injection-payload-list)
 
-So I tried different payloads from the source above. We know the file in `/flag.txt` from the description.
+So I tried different payloads from the source above. We know the file is in `/flag.txt` from the description.
 
 This payload worked
 
