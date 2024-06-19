@@ -135,7 +135,7 @@ int total_cost = 35 * quantity;
 int coin_balance_after_purchase = coin_balance - total_cost;
 ```
 
-The `coin_balance_after_purchase` could underflow if `total_cost` is greater than `coin_balance.` In C, if you subtract a larger int from a smaller one, the result wraps around and becomes a very large positive number.
+The `coin_balance_after_purchase` could underflow if `total_cost` is greater than `coin_balance`. In C, if you subtract a larger int from a smaller one, the result wraps around and becomes a very large positive number.
 
 But, what exactly do we have to input so it can wrap around and become a very large positive number? Simply putting in the integer limit number from the first edition of this challenge won't work. 
 
