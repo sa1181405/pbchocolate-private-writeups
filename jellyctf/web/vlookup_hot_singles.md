@@ -5,7 +5,7 @@ Difficulty: easy
 
 Link: https://vlookup-hot-singles.jellyc.tf/
 
-Provided files: [vlookup_host_singles.zip](https://jellyc.tf/files/40254f94248a38c67ce71193b42b57a2/vlookup_hot_singles.zip?token=eyJ1c2VyX2lkIjo2ODIsInRlYW1faWQiOjQ4NywiZmlsZV9pZCI6MTJ9.ZnJdCw.TvxjU71X3Gnx4GmYfPkZ3qolEtc)
+Provided files: vlookup_host_singles.zip
 
 Description: looks like this is some kind of dating site for nerds? weird, figure out who the admin is and access their panel
 # 
