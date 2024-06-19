@@ -3,7 +3,7 @@ Point count: 559pts
 
 Difficulty: medium
 
-Provided files: N/A
+Provided files: `into_the_atmosphere.mov` (see `into_the_atmosphere_video.mov` file in this directory)
 
 Url: https://discord.gg/yG37ycs8t4
 
