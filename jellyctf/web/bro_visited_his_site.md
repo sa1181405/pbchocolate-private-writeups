@@ -51,7 +51,7 @@ if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8081, debug=True)
 ```
 
-Yup! We see that in the response route, specifically in the way it uses render_template_string to render the user input, the users input is put directly into the template without proper sanitization. This makes the website vulnerable to Server-Side Template Injection (SSTI)
+Yup! We see that in the response route, specifically in the way it uses render_template_string to render the user input, the users input is put directly into the template without proper sanitization. This makes the website vulnerable to `Server-Side Template Injection (SSTI)`
 
 Once knowing this, I used hacktricks SSTI Jinja 2 SSTI payloads (because we know the website is running with flask) and kept trying payloads until one worked.
 
@@ -67,5 +67,5 @@ Once injected into the `word` parameter, we get this:
 
 And there it is! Our flag!
 
-Final flag: jellyCTF{f1agp1ll3d_t3mpl4te_1nj3ct10nmaxx3r}`
+Final flag: `jellyCTF{f1agp1ll3d_t3mpl4te_1nj3ct10nmaxx3r}`
 
