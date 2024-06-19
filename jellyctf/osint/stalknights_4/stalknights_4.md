@@ -25,6 +25,8 @@ So, I used curl to query the API, here is my request:
 
 *Rustlings_practice is the repo that starknight1337 owns*
 
+*application/vnd.github+json is needed to query githubs api as it is a custom media type*
+
 Running this, we are presented with:
 
 ![image](https://github.com/sa1181405/pbchocolate-private-writeups/assets/170969470/736e18e9-c628-4db4-a3d6-7428ab04948a)
