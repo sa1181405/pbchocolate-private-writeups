@@ -8,7 +8,7 @@ Provided files: N/A
 Description: there's a flag hidden somewhere on this site (jellyc.tf) in a common location for websites, see if you can find it
 # 
 
-The common location that the description refers to is the robots.txt file. This file is for crawlers to see what the crawler can access in terms of certain URLs.
+The common location that the description refers to is the `robots.txt` file. This file is for crawlers to see what the crawler can access in terms of certain URLs.
 
 Upon visiting `jellyc.tf/robots.txt`, we are presented with:
 
