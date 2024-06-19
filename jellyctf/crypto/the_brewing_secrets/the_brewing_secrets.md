@@ -54,7 +54,7 @@ int runChallenge(int passcodeLength)
 ```
 
 `runChallenge` is called with `passcodeLength` as 6. Note that the procedure returns 1 if the last 6 inputs are the password. This means that we can effectively brute force the password by sending a string containing every possible 6 digit combination of `"1"` and `"0"`.
-This is documented at (https://github.com/samyk/opensesame)[https://github.com/samyk/opensesame].
+This is documented at https://github.com/samyk/opensesame.
 
 Script: `sol.py`
 
