@@ -1,7 +1,7 @@
 # phase_coffee_2
 Point count: 100pts
 
-Difficulty: easy
+Difficulty: medium
 
 Provided files: phase_coffee_2.zip
 
