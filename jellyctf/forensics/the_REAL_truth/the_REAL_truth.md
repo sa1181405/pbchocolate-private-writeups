@@ -3,7 +3,7 @@ Point count: 439pts
 
 Difficulty: medium
 
-Provided files: image01.png (see `the_REAL_truth_image.png` in this directory)
+Provided files: image01.png on website (see `the_REAL_truth_image.png` in this directory)
 
 Url: https://therealtruthaboutjellyhoshiumi.carrd.co/
 
