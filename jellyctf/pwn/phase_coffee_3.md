@@ -149,7 +149,7 @@ Again, a buffer overflow in the input of address!
 
 `fgets(address, 1000, stdin);`
 
-For this challenge, I just randomly inputted many A's until I observed how many overflowed the next memory address. In this case, it’s likely that the coin_balance variable is located in the memory directly after the address buffer.
+For this challenge, I just randomly inputted many A's until I observed how many overflowed the next memory address. In this case, it’s likely that the `coin_balance` variable is located in the memory directly after the address buffer.
 
 So, 162 "A"'s give a balance of `672065` and 163 "A"'s give a balance of `172048705`
 
