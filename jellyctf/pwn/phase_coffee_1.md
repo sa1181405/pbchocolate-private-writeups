@@ -130,7 +130,7 @@ Immediately, I see an integer overflow vulnerability in this line:
 
 `int total_cost = 35 * quantity;`
 
-*Integer overflow: An integer overflow is a type of an arithmetic overflow error when the result of an integer operation does not fit within the allocated memory space. Instead of an error in the program, it usually causes the result to be unexpected.*
+*Integer overflow: An integer overflow is a type of an arithmetic overflow error when the result of an integer operation does not fit within the allocated memory space. Instead of an error in the program, it usually causes the result to be unexpected.* [Source](https://www.acunetix.com/blog/web-security-zone/what-is-integer-overflow/)
 
 In C, the size of an int is typically `4` bytes, meaning it can hold values from `-2,147,483,648` to `2,147,483,647`
 
