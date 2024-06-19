@@ -106,7 +106,7 @@ Conveniently, the jwt secret is not redacted.
 JWT_SECRET = "singaQu5aeWoh1vuoJuD]ooJ9aeh2soh"
 ```
 
-And we know the admin accounts username being `jelly`
+And we know the admin account username being `jelly`
 
 ```
 def is_admin(token):
