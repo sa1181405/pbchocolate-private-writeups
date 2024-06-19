@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
 Yup! We see that in the response route, specifically in the way it uses render_template_string to render the user input, the users input is put directly into the template without proper sanitization. This makes the website vulnerable to `Server-Side Template Injection (SSTI)`
 
-Once knowing this, I used hacktricks SSTI Jinja 2 SSTI payloads (because we know the website is running with flask) and kept trying payloads until one worked.
+Once knowing this, I used hacktricks SSTI Jinja 2 SSTI [payloads](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection/jinja2-ssti) (because we know the website is running with flask) and kept trying payloads until one worked.
 
 This one worked!
 
