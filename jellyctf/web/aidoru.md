@@ -3,7 +3,7 @@ Point count: 100pts
 
 Difficulty: easy
 
-Provided files: [aidoru.zip](https://jellyc.tf/files/64c41206277c409e5ee5ee8f386eba88/aidoru.zip?token=eyJ1c2VyX2lkIjo3MDIsInRlYW1faWQiOjQ4NywiZmlsZV9pZCI6NDB9.ZnJe-A.7-v1WIFJqTbpd6xf4VcFpEK4Uy0)
+Provided files: aidoru.zip
 
 Description:
 > ### Phase Connect is full of seiso idols!
