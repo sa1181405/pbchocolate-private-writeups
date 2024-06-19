@@ -139,7 +139,7 @@ The `coin_balance_after_purchase` could underflow if `total_cost` is greater tha
 
 But, what exactly do we have to input so it can wrap around and become a very large positive number? Simply putting in the integer limit number from the first edition of this challenge won't work. 
 
-In this case, we would need to input a very large quantity that, when multiplied by 35, causes an integer overflow resulting in a negative `total_cost.` This negative `total_cost` would then, when subtracted from `coin_balance`, effectively add to it, giving us a high balance.
+In this case, we would need to input a very large quantity that, when multiplied by 35, causes an integer overflow resulting in a negative `total_cost`. This negative `total_cost` would then, when subtracted from `coin_balance`, effectively add to it, giving us a high balance.
 
 Simple arithmetic math can help us find the value. 
 
