@@ -68,7 +68,7 @@ Opening this does not show anything. What took me a while was that the POC injec
 
 It wasn't until I tried moving the file to my linux home directory while the spreadsheet was opened to notice it.
 
-How did I notice it? Well windows tells you that you can't move files if the app is open, and I tried to, and I noticed that the flag was in the subject metadata!
+How did I notice it? Well, windows tells you that you can't move files if the app is open, and I tried to, and I noticed that the flag was in the subject metadata!
 
 ![image](https://github.com/sa1181405/pbchocolate-private-writeups/assets/170969470/9f4bcef5-946c-42ed-9827-4b3fc4795a44)
 
