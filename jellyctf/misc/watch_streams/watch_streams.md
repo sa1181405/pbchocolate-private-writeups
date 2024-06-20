@@ -10,7 +10,7 @@ Description:N/A
 
 With no info and only the challenge title, my best bet was to look at the streams that this CTF was targeted towards, that being Jelly Hoshiumi.
 
-Upon visiting her youtube and live streams, I see a particular stream that was made specifically for playing this CTF.
+Upon visiting her youtube and live streams, I see a particular [stream](https://www.youtube.com/watch?v=QH8LKkIVHzI) that was made specifically for playing this CTF.
 
 After skimming the entire video, no flag was found. So, I checked the description.
 
