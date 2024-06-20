@@ -55,7 +55,7 @@ Usually, its common to be line.character OR line.word.character
 
 Since there are only 2 numbers in the cipher (eg: `36.1`) it most likely is line.character.
 
-I made a python script to do this. With 3 files called `code.txt` `song.txt` and `sol.py`. Please refer to them in this directory.
+I made a python script to do this. With 3 files called `code.txt` `song.txt` and `sol.py`. Please refer to them in this directory. Its in the folder called stage5_script.
 
 Using the script, we get:
 
