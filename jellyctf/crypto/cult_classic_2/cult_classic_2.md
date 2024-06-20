@@ -45,7 +45,7 @@ We are presented with 05.txt:
 1.12 39.7 39.5 29.21 34.4 10.28 20.14 15.26
 ```
 
-This reminds me of a book cipher. But, what text should we use? It took me a while, but the book/"song" we need to use is actually be Jelly herself! The song is called `Luminary` and we can verify this is the correct song from the description:
+This reminds me of a book cipher. But, what text should we use? It took me a while, but the book/"song" we need to use is made by Jelly herself! The song is called `Luminary` and we can verify this is the correct song from the description:
 
 ![image](https://github.com/sa1181405/pbchocolate-private-writeups/assets/170969470/31bdedda-f432-483f-9c16-84c531d4983d)
 
