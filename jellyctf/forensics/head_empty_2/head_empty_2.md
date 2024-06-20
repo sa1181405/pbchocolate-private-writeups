@@ -1,5 +1,5 @@
 # head_empty_2
-Point count: 908pts
+Point count: 890pts
 
 Difficulty: hard
 
