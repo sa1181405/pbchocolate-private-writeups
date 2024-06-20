@@ -53,9 +53,9 @@ Lets use the lyrics from the [Youtube](https://www.youtube.com/watch?v=1x6oPy3Hw
 
 Usually, its common to be line.character OR line.word.character
 
-Since there are only 2 numbers in the cipher (eg: `36.1`) it most likely is line.character.
+Since there are only 2 numbers in the cipher (eg: `36.1`) it most likely is line.character. What this means is that, for example `36.1`, in the 36th line at the 1st character is the first letter of the decrypted message.
 
-I made a python script to do this. With 3 files called `code.txt` `song.txt` and `sol.py`. Please refer to them in this directory. Its in the folder called stage5_script.
+I made a python script to do this. With 3 files called `code.txt` `song.txt` and `sol.py`. Please refer to them in this directory. Its in the folder called `stage5_script`.
 
 Using the script, we get:
 
