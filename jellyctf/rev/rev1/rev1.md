@@ -83,7 +83,7 @@ for ( i = 0; i <= 36; ++i )
 
 What this does is that it iterates over the first 37 characters of the array aCEerMTzxIaKxMx. It then Adds the key value (7) to each character and stores the result in the v6 buffer.
 
-We can view the array aCEerMTzxIaKxMx, which is `c^eer<M?tZX<*Ia,kX?*MX_)kX:Xik*g<,..v`
+We can view the array `aCEerMTzxIaKxMx`, which is `c^eer<M?tZX<*Ia,kX?*MX_)kX:Xik*g<,..v`
 
 This most likely is a rotation cipher of some kind with the key `7`
 
