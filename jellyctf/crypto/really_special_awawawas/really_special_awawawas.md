@@ -41,6 +41,6 @@ There are many websites online to factorize `n` for you, this [website](https://
 
 OR you can use [factordb](http://factordb.com/) to see if its already been factorized before.
 
-Sure enough it has already been factored, and you can use a python script to decrypt it.
+Sure enough it has already been factored, and you can use a python script to decrypt it. There are many online for you to check out.
 
 Final flag: `jellyCTF{awawas_4_every1}`
