@@ -1,3 +1,4 @@
+# mandatory libraries
 from Crypto.Util.Padding import unpad
 from Crypto.Cipher import AES
 
@@ -10,7 +11,7 @@ cipher = AES.new(encoded_key, AES.MODE_ECB) # create a new AES cipher object wit
 
 encrypted_flag = bytes.fromhex('2c6783bc372fbf601a4159080bf295e439c30e16fecde63dc7066abb40825383b1d8b2267d641fc17fd54d8bb0a60203b1d8b2267d641fc17fd54d8bb0a60203') # encrypted flag
 
-flag = unpad(cipher.decrypt(encrypted_flag), 32) # Decrypt
+flag = unpad(cipher.decrypt(encrypted_flag), 32) # decrypt
 
 print(flag.decode())
 
