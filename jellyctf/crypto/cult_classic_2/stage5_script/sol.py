@@ -21,3 +21,5 @@ if __name__ == "__main__":
     main()
 
 # this was made with chatgpt
+
+# make sure code.txt and song.txt are in the same directory
