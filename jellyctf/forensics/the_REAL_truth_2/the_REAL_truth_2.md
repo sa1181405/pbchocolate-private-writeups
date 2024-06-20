@@ -15,7 +15,7 @@ looks like jelly still has some more secrets on her site
 
 With the description stating "looks like jelly still has more secrets on her site" clues me into fuzzing the website. However, this is not allowed.
 
-So, I tried basic and common directories. `robots.txt` came back as valid and this was shown:
+So, I tried common directories. `robots.txt` came back as valid and this was shown:
 
 ![image](https://github.com/sa1181405/pbchocolate-private-writeups/assets/170969470/13480b77-c0a0-4321-ae78-367953f54065)
 
