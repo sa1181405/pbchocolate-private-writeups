@@ -27,12 +27,15 @@ I heavily overthinked the first password, however it was just the starting lette
 **R**ecruitment: we are currently looking for highly intelligent individuals. 
 
 **I**n order to do this, we have devised a test. 
+
 **N**ested in this text is the first key to a series of challenges. 
+
 **C**apture the final flag to prove your worth. 
 
 **E**xcitedly awaiting the few who make it through to the end.
 
 **S**incerely,
+
 **S**tarknights (not a cult)
 
 First password: PRINCESS
