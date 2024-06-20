@@ -49,7 +49,7 @@ This reminds me of a book cipher. But, what text should we use? It took me a whi
 
 ![image](https://github.com/sa1181405/pbchocolate-private-writeups/assets/170969470/31bdedda-f432-483f-9c16-84c531d4983d)
 
-Lets use the lyrics from the [Youtube](https://www.youtube.com/watch?v=1x6oPy3Hwcw) description to decrypt this cipher. With book ciphers, you need to know how its decrypted. <number>.<other_number><sometimes_another_number>
+Lets use the lyrics from the [Youtube](https://www.youtube.com/watch?v=1x6oPy3Hwcw) description to decrypt this cipher. With book ciphers, you need to know how its decrypted. number.other_number.sometimes_another_number
 
 Usually, its common to be line.character OR line.word.character
 
