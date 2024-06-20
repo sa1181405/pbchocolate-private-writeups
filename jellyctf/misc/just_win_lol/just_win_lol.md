@@ -11,7 +11,7 @@ Description
 
 The goal is to get 5 of a kind for 5 draws out of 10.
 
-Looking at `main.go`, we see that the handsa are generated with the `randHand` function that takes a rand object as a parameter. This function is used here:
+Looking at `main.go`, we see that the hands are generated with the `randHand` function that takes a rand object as a parameter. This function is used here:
 ```
 		var timeNow = time.Now().UTC().Unix()
 		var rand_time = rand.New(rand.NewSource(timeNow))
