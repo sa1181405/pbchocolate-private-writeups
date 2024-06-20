@@ -18,15 +18,15 @@ Inside encrypted.txt, we are presented with:
 
 Converting this from hex gives gibberish, but since I know its a XOR cipher, lets put in the key for XOR as `jellyCTF{` and see what happens. *Don't forget to convert from hex first! And if your using [Cyberchef](https://gchq.github.io/CyberChef/), make sure your in UTF-8 mode when inputting the key!*
 
-![image](https://github.com/sa1181405/pbchocolate-private-writeups/assets/170969470/b5735952-847e-4f82-8707-1aa9ebdde165)
+![image](https://github.com/sa1181405/pbchocolate-private-writeups/assets/170969470/f63e83c7-dea7-49b6-867b-92ce75d3ec23)
 
 Hmmm, that might be our key!!
 
-`lyCTF{xo` sounds familiar to `jellyCTF{xo` as our flag format!
+`lyCTF{xor` sounds familiar to `jellyCTF{xor` as our flag format!
 
-Lets put `jellyCTF{xo` in as the key. 
+Lets put `jellyCTF{xor` in as the key. 
 
-![image](https://github.com/sa1181405/pbchocolate-private-writeups/assets/170969470/97c7883a-d52a-4d80-aabb-0a5683299ebf)
+![image](https://github.com/sa1181405/pbchocolate-private-writeups/assets/170969470/dab80058-8207-48f6-9768-6f58ae26d6c7)
 
 Woah! We are discovering plaintext, lets keep putting this plaintext as the key.
 
