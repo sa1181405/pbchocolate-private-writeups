@@ -15,7 +15,7 @@ The website presents itself with a long speech and a photo in the middle. Since 
 
 Using Aperi'Solve yields no results, so I used stegsolve by Caesum to see if I can go through the filters and find a hidden flag.
 
-Going through the filters showed nothing, so I used stegsolve's data extraction feature. This extracts all the data from the bit plane.
+Going through the filters showed nothing, so I used stegsolve's data extraction feature. This extracts all the data from each bit planes.
 
 I did not know which plane had the flag, so I checked all the planes.
 
