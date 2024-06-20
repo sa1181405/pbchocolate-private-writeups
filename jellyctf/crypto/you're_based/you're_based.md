@@ -17,7 +17,7 @@ That was just a warm up. Here is the actual flag, though you may need a base tha
 驪ꍬ硹答𓉻晨鑳橩ꅟ𓅵鑴鑡楢晳鑣𔕡𔕡𔕡𓁡𓍭𠍰
 ```
 
-So, we know we are still in the base familiy for this second cipher. I actually got lost for a while trying to figure out what it meant by 'A' bit larger. Until I realized:
+So, we know we are still in the base familiy for this second cipher. I actually got lost for a while trying to figure out what it meant by 'A' bit larger.
 
 Base64 uses 6 bits (2^6=64. Hence the name base64) So it must be higher then base64
 
