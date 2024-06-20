@@ -43,7 +43,7 @@ What this program does in a nutshell is that it takes a file called flag.txt, us
 
 It then finds the index `awascii_code = lookup.index(c)`, converts the index to an 8 bit binary, then converts this binary to awascii (replaces each 0 with `awa` and each 1 with `wa`)
 
-This is easily reversable as we can just split the remaining strng into chunks to represent binary, and convert each binary string back to its original character.
+This is easily reversable as we can just split the remaining string into chunks to represent binary, and convert each binary string back to its original character.
 
 Please see `sol.py` for my script on how to reverse this.
 
