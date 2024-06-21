@@ -1,4 +1,6 @@
 # exclusively_yours
+Writeup author: **lolmenow**
+
 Point count: 424pts
 
 Difficulty: easy
