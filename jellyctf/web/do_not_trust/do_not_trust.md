@@ -1,4 +1,6 @@
 # do_not_trust
+Writeup author: **lolmenow**
+
 Point count: 100pts
 
 Difficulty: easy
