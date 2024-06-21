@@ -1,4 +1,6 @@
 # awascii_validator
+Writeup author: **taodragon_**
+
 Point count: 380pts
 
 Difficulty: easy
