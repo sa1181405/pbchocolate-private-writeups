@@ -92,6 +92,8 @@ h8	CAXOREWSNA
 a4	✌︎☠︎💧︎🕈︎☜︎☼︎✋︎🏱︎🕈︎☠︎
 - This is wingdings. `ANSWERIPWN`
 
+*Below were the ciphers not needed to fill out the board*
+
 b4	0 26 10 1 5 36 0 5 9 48
 
 c4	&#65;&#78;&#83;&#87;&#69;&#82;&#76;&#86;&#78;&#77;
