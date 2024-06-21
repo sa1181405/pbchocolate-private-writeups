@@ -1,4 +1,6 @@
 # alien_transmission
+Writeup author: **lolmenow**
+
 Point count: 100pts
 
 Difficulty: easy
