@@ -1,4 +1,6 @@
 # just_win_lol
+Writeup author: **taodragon_**
+
 Point count: 908pts
 
 Difficulty: hard
