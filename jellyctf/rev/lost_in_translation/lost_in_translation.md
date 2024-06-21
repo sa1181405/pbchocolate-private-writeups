@@ -1,4 +1,6 @@
 # lost_in_translation
+Writeup author: **lolmenow**
+
 Point count: 100pts
 
 Difficulty: easy
