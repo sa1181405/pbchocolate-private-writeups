@@ -1,4 +1,6 @@
 # you're_based
+Writeup author: **lolmenow**
+
 Point count: 766pts
 
 Difficulty: easy
@@ -27,7 +29,7 @@ Hang on, there is a Base65536??
 
 How does this make sense?
 
-That is when it clicked me. The letter 'A' in hex is 10. (Hex goes like 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E and F) 10+6 = 16, 2^16 = 65536. 
+That is when it clicked me. The letter 'A' in hex is 10. (Hex goes like 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E and F) `10+6 = 16, 2^16 = 65536.` 
 
 I used this online [decoder](https://www.better-converter.com/Encoders-Decoders/Base65536-Decode) to convert the non readable text above, and we get:
 
