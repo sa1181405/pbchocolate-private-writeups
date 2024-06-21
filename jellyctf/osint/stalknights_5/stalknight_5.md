@@ -32,3 +32,7 @@ What did instantusername.com say?
 Moral of the story: don't trust automated tools to a great extent!
 
 Final flag: `jellyCTF{1337code_0n_str34m}`
+
+*Update: Apparently GPT-4 could've helped you solve this problem?! WHAT?! You can view the convo in this directory titled "gpt-sn5-convo.txt"*
+
+*Thanks darklight_03 on discord for the GPT convo, he used it to actually get the site leetcode! Wow, AI might take over the world?!*
