@@ -1,4 +1,6 @@
 # the_REAL_truth_2
+Writeup author: **lolmenow**
+
 Point count: 666pts
 
 Difficulty: hard
