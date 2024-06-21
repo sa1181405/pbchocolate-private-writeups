@@ -1,4 +1,6 @@
 # stalknights_2
+Writeup author: **taodragon_**
+
 Point count: 410pts
 
 Difficulty: medium
