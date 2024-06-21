@@ -62,7 +62,7 @@ This is a Vigenere cipher with key `bababababa`. `ANSWERATEI`
 e1	p}$(t#'t$P
 This is ROT47. `ANSWERVES!`
 
-Down
+### Down
 a8	UVU1VFYwVlNSa2xSU1E9PQ==
 This is Base64 encoded twice. `ANSWERFIQI`
 
@@ -97,3 +97,36 @@ e4	BOTXFSJOBW
 f4	JRDHCYBLAM
 g4	2 66 7777 9 33 777 33 44 33 7777
 h4	414e5357455255454921%    
+
+### Board
+This is the completed board:
+
+```
+  a b c d e f g h
+8 F O L L O W M O
+7 I S T D U E L X
+6 Q C I N D E T A
+5 I L O N S P E C
+4 I A L L I N E U
+3 P E V E N T H E
+2 W O N M A T E I
+1 N 6 M O V E S !
+```
+
+This reads `FOLLOW MOIST DUEL XQC IN DETAIL ON SPECIAL LINEUP EVEN THE WON MATE IN 6 MOVES!`, which refers to [this chess game](https://www.youtube.com/watch?v=e91M0XLX7Jw).
+```
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. c3 Qf6 6. Nxc6 Qxf2# 0-1
+```
+
+Note that the board looks suspiciously like a chessboard.
+When we map each square a piece lands on in the game to a letter on the board, we get the 12 letter string `ISTILLLOVEIT`.
+
+Flag: `jellyCTF{ISTILLLOVEIT}`
