@@ -1,4 +1,6 @@
 # watch_streams
+Writeup author: **lolmenow**
+
 Point count: 100pts
 
 Difficulty: N/A
