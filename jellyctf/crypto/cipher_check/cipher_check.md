@@ -1,4 +1,6 @@
 # cipher_check
+Writeup author: **taodragon_**
+
 Point count: 288pts
 
 Difficulty: medium
