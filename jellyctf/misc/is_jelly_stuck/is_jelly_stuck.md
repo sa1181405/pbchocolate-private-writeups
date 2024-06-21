@@ -1,7 +1,7 @@
 # is_jelly_stuck
 Writeup author: **7000x887143**
 
-Point count: 849
+Point count: 849pts
 
 Difficulty: medium
 
