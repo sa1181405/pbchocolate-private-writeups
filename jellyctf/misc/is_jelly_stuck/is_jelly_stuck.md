@@ -108,7 +108,7 @@ This was mostly an osint challenge, you can take a look at all the crossword ans
 ## Flag construction
 *"The flag is complete gibberish, but you'll know it when you're optimal!"*
 
-The crossword is the same shape as the Baba is You level given in `9 DOWN`. Following the optimal (shortest) solution, the player character passes through cells that spell the flag out (see `crosswordpath.mp4` in this directory).
+The crossword is the same shape as the Baba is You level given in `9 DOWN`. Following the optimal (shortest) solution, the player character passes through cells that spell the flag out (see `crosswordpath.mp4` in this directory, video by taodragon who found this!).
 
 Once following that path in your grid, you get the flag!
 
