@@ -1,4 +1,6 @@
 # vlookup_host_singles
+Writeup author: **lolmenow**
+
 Point count: 100pts
 
 Difficulty: easy
