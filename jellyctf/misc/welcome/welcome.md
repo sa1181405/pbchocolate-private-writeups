@@ -1,4 +1,6 @@
 # welcome
+Writeup author: **lolmenow**
+
 Point count: 1000pts
 
 Difficulty: N/A
