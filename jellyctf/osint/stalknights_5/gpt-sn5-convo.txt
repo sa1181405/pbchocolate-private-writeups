@@ -1,0 +1,116 @@
+What a weird username this --starnerd-- starknight has. I wonder what hobbies they're into.
+
+Maybe they have an account not mentioned on social media. Find the flag on their account's profile page.
+
+Flag format: jellyCTF{flag_on_profile_page}
+
+Note: The results of previous challenges are not relevant for this challenges (though clues from those sites may help)
+
+----
+username = starknight1337
+
+from discord:
+
+its easy to the point that if we give any more hints it would just be the solution
+wonder if people just forgot the site exist, or they don't know it exist in the first place
+ChatGPT
+
+Given the hint and the username "starknight1337," it seems like the task is to find the profile page of this user on a particular website. Since no specific site is mentioned and considering the username, let's explore some popular platforms where users might have profiles, such as GitHub, GitLab, or any other developer or tech-related sites.
+Steps to Approach:
+
+    Check GitHub:
+        Visit GitHub and search for the username "starknight1337".
+        Look at their profile page for any mention of the flag.
+
+    Check GitLab:
+        Visit GitLab and search for the username "starknight1337".
+        Inspect the profile page for any relevant information.
+
+    Check other common platforms:
+        Explore other platforms where this username might be used. Examples include Bitbucket, Stack Overflow, or personal blogs.
+
+Action Plan:
+
+    Open a web browser.
+    Go to GitHub and search for "starknight1337".
+    Repeat the search on GitLab and other relevant platforms if necessary.
+
+Let's start by checking GitHub and GitLab. If you have access to a web browser, you can do this quickly. If not, let me know, and I can assist with further steps.
+not those 2 sites. 
+
+KJ@:  it's easy if you're a nerd
+ChatGPT
+
+Given the hint that it's easy if you're a nerd and the username "starknight1337," it suggests that the platform could be related to something a "nerd" would use. Based on the hints provided, another possible platform could be Reddit.
+
+Let's check the Reddit profile for "starknight1337."
+Steps:
+
+    Go to Reddit.
+    Search for the user "starknight1337".
+    Inspect the profile page for any mention of the flag.
+
+If Reddit does not yield results, another possibility could be a site related to gaming or a forum used by "nerds," such as a specific Discord server, an IRC channel, or a specialized forum.
+Actions:
+
+    Open Reddit and search for "starknight1337."
+    Inspect the profile page.
+
+Please try this and let me know if you find the flag, or I can guide you further if needed.
+no its not reddit
+ChatGPT
+
+Given that it's not GitHub, GitLab, or Reddit, and considering the hint "it's easy if you're a nerd," let's consider other platforms that might fit the "nerd" category. One potential platform that comes to mind is Neocities, a platform popular among tech-savvy users for creating personal websites.
+Steps to Approach:
+
+    Go to Neocities.
+    Search for the username "starknight1337" or variations of it.
+    Inspect the profile page and any associated website for mentions of the flag.
+
+Action Plan:
+
+    Open Neocities and search for "starknight1337".
+    Explore any user profile or website linked to this username.
+
+Please try this and see if you can find the flag on Neocities. If this doesn't work, another suggestion might be looking at other platforms like forums or personal blogs where "nerds" might hang out.
+https://starknight1337.neocities.org doesn't exist
+ChatGPT
+
+Given that the Neocities site doesn't exist, let's consider another platform that might fit the context of "nerd" culture. A popular platform among tech enthusiasts and gamers is itch.io, which hosts a lot of indie games and personal projects.
+Steps to Approach:
+
+    Go to itch.io.
+    Search for the username "starknight1337".
+    Inspect the profile page for any mention of the flag.
+
+If itch.io does not yield results, another possibility could be CodePen, where developers often showcase their projects.
+Action Plan:
+
+    Open itch.io and search for "starknight1337".
+    Inspect the profile page.
+
+If this approach does not work, another potential platform to check would be a forum or community site like Stack Exchange, Dev.to, or an IRC channel specific to a certain niche.
+
+Let's start with itch.io and see if we can find anything there. If you try this and still don't find the flag, let me know, and we'll explore further options.
+no
+ChatGPT
+
+Given that the previous attempts were unsuccessful, let's consider some other "nerd-friendly" platforms. One possible platform that comes to mind is Anilist, a popular site among anime and manga enthusiasts, who often have a strong presence in the tech-savvy community.
+Steps to Approach:
+
+    Go to Anilist.
+    Search for the username "starknight1337".
+    Inspect the profile page for any mention of the flag.
+
+Another possibility is checking a more tech-centric forum or community site like:
+
+    HackerRank or LeetCode: These are popular platforms for coding challenges.
+    Hackaday.io: A platform where tech enthusiasts share their projects.
+
+Action Plan:
+
+    Open Anilist and search for "starknight1337".
+    Inspect the profile page.
+    If no results, check HackerRank, LeetCode, or Hackaday.io.
+
+Let's start with Anilist and see if we can find anything there. If that doesn't work, we can proceed to the other platforms mentioned.
