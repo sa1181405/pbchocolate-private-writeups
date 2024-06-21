@@ -1,5 +1,5 @@
 # stalknights_5
-Point count: 935pts
+Point count: 925pts
 
 Difficulty: medium
 
