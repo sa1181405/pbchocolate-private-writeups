@@ -1,4 +1,6 @@
 # phase_coffee_3
+Writeup author: **lolmenow**
+
 Point count: 100pts
 
 Difficulty: easy
