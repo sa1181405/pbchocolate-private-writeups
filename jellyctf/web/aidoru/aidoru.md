@@ -1,4 +1,6 @@
 # aidoru
+Writeup author: **taodragon_**
+
 Point count: 100pts
 
 Difficulty: easy
