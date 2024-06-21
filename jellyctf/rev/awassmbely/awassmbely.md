@@ -1,4 +1,6 @@
 # awassmbely
+Writeup author: **taodragon_**
+
 Point count: 271pts
 
 Difficulty: easy
