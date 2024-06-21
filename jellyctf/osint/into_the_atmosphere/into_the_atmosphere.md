@@ -1,4 +1,6 @@
 # into_the_atmosphere
+Writeup author: **lolmenow**
+
 Point count: 559pts
 
 Difficulty: medium
