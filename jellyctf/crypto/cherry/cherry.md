@@ -1,4 +1,6 @@
 # cherry
+Writeup author: **taodragon_**
+
 Point count: 871pts
 
 Difficulty: hard
