@@ -1,4 +1,6 @@
 # vlookup_hot_singles_2 
+Writeup author: **lolmenow**
+
 Point count: 766pts
 
 Difficulty: hard
