@@ -1,4 +1,6 @@
 # factory_clicker
+Writeup author: **taodragon_**
+
 Point count: 100pts
 
 Difficulty: easy
