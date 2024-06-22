@@ -14,7 +14,7 @@ Description: this guy is like some kind of jelly superfan or something... what a
 note: unrelated to the stalknights challenges
 # 
 
-We are given with a twitter handle and know that this user has changed their username, NOT deleted their account. Lets check the way back machine and see if this tiwtter page has been archived in the past. 
+We are given with a twitter handle and know that this user has changed their username, NOT deleted their account. Lets check the wayback machine and see if this twitter page has been archived in the past. 
 
 ![image](https://github.com/sa1181405/pbchocolate-private-writeups/assets/170969470/d1e65199-a21c-4c69-a1ea-01be83c2ada8)
 
