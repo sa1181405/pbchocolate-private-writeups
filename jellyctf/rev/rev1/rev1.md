@@ -10,7 +10,7 @@ Provided files: rev1
 Description: you'll want some kind of disassembler e.g. ghidra, ida, binary ninja, radare2
 # 
 
-Before opening this in a disassembler, lets runs ome basic checks on this file.
+Before opening this in a disassembler, lets run some basic checks on this file.
 
 Using linux's `file` command we can see some basic properties. 
 
