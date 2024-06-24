@@ -1,7 +1,7 @@
 # awafier
 Writeup author: **taodragon_**
 
-Point count: 100pts
+Point count: 559pts
 
 Difficulty: easy
 

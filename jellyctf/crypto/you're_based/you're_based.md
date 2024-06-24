@@ -1,7 +1,7 @@
 # you're_based
 Writeup author: **lolmenow**
 
-Point count: 766pts
+Point count: 937pts
 
 Difficulty: easy
 

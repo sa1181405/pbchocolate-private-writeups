@@ -1,7 +1,7 @@
 # stalknights_5
 Writeup author: **lolmenow**
 
-Point count: 925pts
+Point count: 973pts
 
 Difficulty: medium
 

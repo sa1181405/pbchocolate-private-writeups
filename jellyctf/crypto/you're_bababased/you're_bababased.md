@@ -1,7 +1,7 @@
 # you're_bababased
 Writeup author: **taodragon_**
 
-Point count: 971pts
+Point count: 968pts
 
 Difficulty: medium
 

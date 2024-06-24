@@ -1,7 +1,7 @@
 # head_empty
 Writeup author: **lolmenow**
 
-Point count: 508pts
+Point count: 842pts
 
 Difficulty: medium
 

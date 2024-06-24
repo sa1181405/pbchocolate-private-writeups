@@ -1,7 +1,7 @@
 # secret_engineering_roleplay
 Writeup author: **lolmenow**
 
-Point count: 521pts
+Point count: 842pts
 
 Difficulty: medium
 

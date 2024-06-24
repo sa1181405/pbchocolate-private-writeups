@@ -1,7 +1,7 @@
 # lost_in_translation
 Writeup author: **lolmenow**
 
-Point count: 100pts
+Point count: 682pts
 
 Difficulty: easy
 

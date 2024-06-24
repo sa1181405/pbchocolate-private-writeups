@@ -1,7 +1,7 @@
 # dizzy_fisherman
 Writeup author: **lolmenow**
 
-Point count: 666pts
+Point count: 899pts
 
 Difficulty: hard
 

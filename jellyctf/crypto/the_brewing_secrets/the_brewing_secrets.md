@@ -1,7 +1,7 @@
 # the_brewing_secrets
 Writeup author: **taodragon_**
 
-Point count: 766pts
+Point count: 927pts
 
 Difficulty: hard
 

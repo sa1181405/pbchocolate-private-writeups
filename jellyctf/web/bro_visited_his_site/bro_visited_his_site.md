@@ -1,7 +1,7 @@
 # bro_visited_his_site
 Writeup author: **lolmenow**
 
-Point count: 100pts
+Point count: 358pts
 
 Difficulty: easy
 

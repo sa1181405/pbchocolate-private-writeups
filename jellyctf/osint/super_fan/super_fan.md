@@ -1,7 +1,7 @@
 # super_fan
 Writeup author: **lolmenow**
 
-Point count: 856pts
+Point count: 957pts
 
 Difficulty: hard
 

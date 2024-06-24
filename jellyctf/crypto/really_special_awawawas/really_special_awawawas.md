@@ -1,7 +1,7 @@
 # really_special_awawawas
 Writeup author: **lolmenow**
 
-Point count: 728pts
+Point count: 917pts
 
 Difficulty: medium
 

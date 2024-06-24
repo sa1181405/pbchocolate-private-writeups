@@ -1,7 +1,7 @@
 # oshi_mark
 Writeup author: **taodragon_**
 
-Point count: 856pts
+Point count: 953pts
 
 Difficulty: hard
 

@@ -1,7 +1,7 @@
 # rev1
 Writeup author: **lolmenow**
 
-Point count: 304pts
+Point count: 784pts
 
 Difficulty: easy
 

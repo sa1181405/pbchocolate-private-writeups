@@ -1,7 +1,7 @@
 # cult_classic_2
 Writeup author: **lolmenow**
 
-Point count: 596pts
+Point count: 864pts
 
 Difficulty: easy
 

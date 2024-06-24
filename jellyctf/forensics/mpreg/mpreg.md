@@ -1,7 +1,7 @@
 # mpreg4
 Writeup author: **taodragon_**
 
-Point count: 100pts
+Point count: 660pts
 
 Difficulty: easy
 

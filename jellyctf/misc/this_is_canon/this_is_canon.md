@@ -1,7 +1,7 @@
 # this_is_canon 
 Writeup author: **taodragon_**
 
-Point count: 942pts
+Point count: 937pts
 
 Difficulty: medium
 
